@@ -28,7 +28,7 @@
 
 ## 📫 연락하기
 - **이메일**: lovelybr0903@gmail.com
-- **LinkedIn**: [LinkedIn 프로필 링크]
+- **LinkedIn**: https://myportfolio-first-nine.vercel.app/
 - **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
 - **블로그**: [블로그 주소]
 
