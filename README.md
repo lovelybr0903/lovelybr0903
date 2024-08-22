@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 [이름]입니다!
+# 안녕하세요, 저는 [박보람]입니다!
 
 ## 👨‍💻 프론트엔드 개발자
 
@@ -7,12 +7,12 @@
 - 👯 다른 개발자들과 협력하여 오픈 소스 프로젝트에 기여하고 싶습니다.
 - 🤔 사용자 경험을 개선하기 위한 아이디어를 찾고 있습니다.
 - 💬 `JavaScript`, `React`, `CSS` 등에 관해 이야기하는 것을 좋아합니다.
-- 📫 연락 방법: [이메일 주소]
+- 📫 연락 방법: [lovelybr0903@gmail.com]
 - 😄 대명사: He/Him
 - ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
 
 ## 🛠 기술 스택
-- **언어**: JavaScript (ES6+), TypeScript
+- **언어**: HTML, CSS, Adobe Photoshop, Adobe Illustrator, jQuery, JavaScript, 
 - **프레임워크 및 라이브러리**: React.js, Next.js, Redux, Recoil, Axios
 - **스타일링**: CSS, SCSS, Emotion
 - **툴**: Git, GitHub, Figma, Visual Studio Code
