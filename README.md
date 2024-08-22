@@ -29,10 +29,9 @@
 --> 
 ## 📫 연락하기
 - **이메일**: lovelybr0903@gmail.com
-- **LinkedIn**: https://myportfolio-first-nine.vercel.app/
+- **Portfolio**: https://myportfolio-first-nine.vercel.app/
 - **Insta**: [@lovelymaedeong](https://www.instagram.com/lovelymaedeong)
-- **블로그**: [블로그 주소]
-
+- 
 <!-- 이 섹션은 자신의 프로필을 더욱 개성 있게 만들기 위해 추가할 수 있습니다 -->
 ## 🔥 최근 프로젝트
 - [프로젝트 이름](프로젝트 링크) - 간단한 설명
