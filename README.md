@@ -23,10 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelybr0903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📈 GitHub 통계
+<!-- ## 📈 GitHub 통계
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelybr0903&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+--> 
 ## 📫 연락하기
 - **이메일**: lovelybr0903@gmail.com
 - **LinkedIn**: https://myportfolio-first-nine.vercel.app/
