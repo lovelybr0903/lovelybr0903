@@ -17,7 +17,8 @@
 - **스타일링**: CSS, SCSS, Emotion
 - **툴**: Git, GitHub, Figma, Visual Studio Code
 - **기타**: Responsive Design, RESTful API, GraphQL -->
-- HTML, CSS, Figma, Visual Studio Code, Adobe Photoshop, Adobe Illustrator, jQuery, JavaScript
+- HTML, CSS, jQuery, JavaScript, Figma, 
+- Visual Studio Code, Adobe Photoshop, Adobe Illustrator, 
 
 ## 💻 언어 사용량 통계
 
